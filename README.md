@@ -176,4 +176,4 @@ MIT License. Feel free to fork, build, and improve!
 
 ## 🙋‍♂️ Developed By
 
-Anjaneya Pattanaik | [LinkedIn](https://www.linkedin.com/in/anjaneya-pattanaik)
+Anjaneya Pattanaik | [LinkedIn](https://www.linkedin.com/in/anjaneyapattanaik/)
