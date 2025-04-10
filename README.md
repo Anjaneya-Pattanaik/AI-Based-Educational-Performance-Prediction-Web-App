@@ -74,7 +74,7 @@ Many schools in India and globally still face infrastructure gaps — from lack 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Anjaneya-Pattanaik/AI-Based-Educational-Performance-Prediction-Web-App.git
-cd edu-predictor
+cd AI-Based-Educational-Performance-Prediction-Web-App
 ```
 
 ### 2. Install Python dependencies
