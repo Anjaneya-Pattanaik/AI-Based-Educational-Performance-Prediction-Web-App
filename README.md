@@ -73,7 +73,7 @@ Many schools in India and globally still face infrastructure gaps — from lack 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/edu-predictor.git
+git clone https://github.com/Anjaneya-Pattanaik/AI-Based-Educational-Performance-Prediction-Web-App.git
 cd edu-predictor
 ```
 
