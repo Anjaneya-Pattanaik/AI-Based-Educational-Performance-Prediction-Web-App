@@ -168,12 +168,6 @@ This project supports **Sustainable Development Goal 4: Quality Education** by:
 
 ---
 
-## 📄 License
-
-MIT License. Feel free to fork, build, and improve!
-
----
-
 ## 🙋‍♂️ Developed By
 
 Anjaneya Pattanaik | [LinkedIn](https://www.linkedin.com/in/anjaneyapattanaik/)
